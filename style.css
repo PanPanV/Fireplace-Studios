@@ -1,0 +1,10 @@
+header{
+    background-color:Black;color:white
+}
+footer{
+    background-color:Black; color:white
+}
+.button{
+   width:80px;height:35px;
+   border-radius:15px;
+}
